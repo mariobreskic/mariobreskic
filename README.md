@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariobreskic
-- 👀 I’m interested in graphic design and semiotics
-- 🌱 I’m currently learning python and processing
-- 💞️ I’m looking to collaborate on processing
+- 👀 I’m interested in {Computational Programmatic} × {Communication Graphic} × Design
+- 🌱 I’m currently learning js, processing, and python
+- 💞️ I’m looking to collaborate on {Computational Programmatic} × {Communication Graphic} × Design
 - 📫 How to reach me is easiest by mail hallo(a)mariobreskic.de
 
 <!---
