@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariobreskic
-- 👀 I’m interested in {Computational Programmatic} × {Communication Graphic} × Design
+- 👀 I’m interested in {Computational Programmatic} × {Graphic Visual} × Design
 - 🌱 I’m currently learning js, processing, and python
 - 💞️ I’m looking to collaborate on {Computational Programmatic} × {Communication Graphic} × Design
 - 📫 How to reach me is easiest by mail hallo(a)mariobreskic.de
